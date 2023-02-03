@@ -1,1 +1,1 @@
-#qwqwq
+print("world")

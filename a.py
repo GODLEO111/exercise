@@ -1,1 +1,1 @@
-#qwqwqwqw
+print("hello")
