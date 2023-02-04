@@ -1,2 +1,1 @@
 #file a
-print("a")
