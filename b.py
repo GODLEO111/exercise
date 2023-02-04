@@ -1,1 +1,1 @@
-#file b
+print("b")
