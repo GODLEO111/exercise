@@ -1,2 +1,1 @@
-print("world")
-print(1)
+print("b")
